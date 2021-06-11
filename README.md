@@ -1,4 +1,4 @@
-### php_virus
+# php_virus
 A virus I wrote in PHP
 
 # Overview:
