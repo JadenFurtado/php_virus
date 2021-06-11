@@ -3,6 +3,8 @@ A virus I wrote in PHP
 
 # Overview:
 
+Php as we know is rather infamous as it is easy to write insecure code in. It is also rather easy for a virus to infect a PHP file given how website in PHP are often written. And so PHP is the perfect language to write a web virus in.
+
 Basically, this virus infects all your php files and will copy itself onto them and the process repeats.
 I hope to be adding payloads(I was thinking using JSON) to this in the future.
 Feel free to contribute to it and build on it if you please.
